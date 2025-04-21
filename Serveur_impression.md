@@ -41,11 +41,10 @@ Ce document s’adresse à tout technicien souhaitant installer un serveur d’i
 ### Procédure
 
 1. Ouvrir le gestionnaire de serveur
+2. Installer le rôle **Service d’impression et de numérisation de document
+3. Laissez coché **Serveur d’impression**
+4. Ne touchez à rien d’autre. Cliquer sur *Suivant* jusqu’à cliquer sur *Installer*
 
-![Ouverture du gestionnaire de serveur](assets/impression_gestionnaire_de_serveur.png)
-3. Installer le rôle **Service d’impression et de numérisation de document**
-4. Laissez coché **Serveur d’impression**
-5. Ne touchez à rien d’autre. Cliquer sur *Suivant* jusqu’à cliquer sur *Installer*
 
 ---
 
@@ -53,7 +52,7 @@ Ce document s’adresse à tout technicien souhaitant installer un serveur d’i
 
 ### Prérequis
 
-- Avoir accès à Internet (pas forcément sur le serveur)
+- Avoir accès à Internet (pas forcément sur le serveur d'impression)
 - (Optionnel) Avoir une imprimante physique
 
 ### Procédure
@@ -105,5 +104,3 @@ Ce document s’adresse à tout technicien souhaitant installer un serveur d’i
    - Se connecter avec un utilisateur de l’OU concernée
 
 ---
-
-**Procédure validée par Mr CIMADOMO – Responsable du SNTS**
