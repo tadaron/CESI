@@ -41,6 +41,7 @@ Ce document s’adresse à tout technicien souhaitant installer un serveur d’i
 ### Procédure
 
 1. Ouvrir le gestionnaire de serveur
+
 ![Ouverture du gestionnaire de serveur](assets/impression_gestionnaire_de_serveur.png)
 3. Installer le rôle **Service d’impression et de numérisation de document**
 4. Laissez coché **Serveur d’impression**
